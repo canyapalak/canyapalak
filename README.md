@@ -3,7 +3,6 @@
 - 💞️ After I finish my training program, I aim to start working as a full-time web developer at a company and keep on progressing with experience.
 - ✉️ canyapalak@gmail.com
 - :muscle: Skills:
-
 <br>
 
 <span title="HTML"><a href="https://www.w3schools.com/html/default.asp"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" style= "width: 50px; height: 50px" alt="HTML" /></a></span>
