@@ -4,7 +4,8 @@
 - 👉 <a href="https://canyapalak.netlify.app" target="_blank" alt="portfolio">https://canyapalak.netlify.app</a>
 - :muscle: Skills:
 
-<span title="HTML"><a href="https://www.w3schools.com/html/default.asp"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" style= "width: 50px; height: 50px" alt="HTML" /></a></span>
+<div class="flexbox flex-wrap justify-content:space-evenly">
+  <span title="HTML"><a href="https://www.w3schools.com/html/default.asp"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" style= "width: 50px; height: 50px" alt="HTML" /></a></span>
 <span title="CSS"><a href="https://www.w3schools.com/css/default.asp"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" style= "width: 50px; height: 50px" alt="CSS" /></a></span>
 <span title="Javascript"><a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" style= "width: 50px; height: 50px" alt="Javascript" /></a></span>
 <span title="React"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" style= "width: 50px; height: 50px" alt="React" /></a></span>
@@ -17,6 +18,7 @@
 <span title="Express"><a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" style= "width: 50px; height: 50px" alt="Express" /></a></span>
 <span title="Figma"><a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" style= "width: 50px; height: 50px" alt="Figma" /></a></span>
 <span title="Postman"><a href="https://www.postman.com/"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" style= "width: 50px; height: 50px" alt="Postman" /></a></span>
+  </div>
 
 
 
