@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Can Yapalak, a Web Dev student residing in Berlin, Germany.
 - 🌱 I’m currently learning how to be a Full-Stack Web Dev at Code Academy Berlin and spending all my time and energy in this new field of expertise.
-- 💞️ When I finish my training program, I aim to start working as a full-time web developer at a company and keep on progressing with experience.
+- 🎯 When I finish my training program, I aim to start working as a full-time web developer and keep on progressing with experience.
 - 👉 <a href="https://canyapalak.vercel.app" target="_blank" alt="portfolio">https://canyapalak.vercel.app</a>
 - :muscle: Skills:
 
