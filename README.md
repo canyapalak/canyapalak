@@ -18,8 +18,7 @@
 <span title="MongoDB"><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" style= "width: 50px; height: 50px" alt="MongoDB" /></a></span>
 <span title="Express"><a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" style= "width: 50px; height: 50px" alt="Express" /></a></span>
 <span title="GraphQL"><a href="https://graphql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" style= "width: 50px; height: 50px" alt="GraphQL" /></a></span>
-<span title="Apollo"><a href="https://www.apollographql.com/"><img src="https://www.svgrepo.com/show/305728/apollographql.svg" style= "width: 50px; height: 50px" alt="Apollo" /></a></span>
-<span title="Figma"><a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" style= "width: 50px; height: 50px" alt="Figma" /></a></span>
+<span title="Apollo"><a href="https://www.apollographql.com/"><img src="https://www.svgrepo.com/show/305728/apollographql.svg" style= "width: 50px; height: 50px" alt="Apollo"/></a></span>
 <span title="Postman"><a href="https://www.postman.com/"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" style= "width: 50px; height: 50px" alt="Postman" /></a></span>
   </div>
 
