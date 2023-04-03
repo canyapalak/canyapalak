@@ -5,7 +5,7 @@
 - :muscle: Skills:
 
 <div style="flexbox; flex-direction:row; flex-wrap; justify-content:space-evenly">
-  <span title="HTML"><a href="https://www.w3schools.com/html/default.asp"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" style= "max-width: 50px; max-height: 50px" alt="HTML" /></a></span>
+  <span title="HTML"><a href="https://www.w3schools.com/html/default.asp"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" style= "width: 3rem; height: 3rem" alt="HTML" /></a></span>
 <span title="CSS"><a href="https://www.w3schools.com/css/default.asp"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" style= "width: 50px; height: 50px" alt="CSS" /></a></span>
 <span title="Javascript"><a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" style= "width: 50px; height: 50px" alt="Javascript" /></a></span>
 <span title="React"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" style= "width: 50px; height: 50px" alt="React" /></a></span>
