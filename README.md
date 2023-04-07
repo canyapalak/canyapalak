@@ -1,30 +1,13 @@
-- 👋 Hi, I’m Can Yapalak, a Web Dev student residing in Berlin, Germany.
-- 🌱 I’m currently learning how to be a Full-Stack Web Dev at Code Academy Berlin and spending all my time and energy in this new field of expertise.
-- 🎯 When I finish my training program, I aim to start working as a full-time web developer and keep on progressing with experience.
-- 👉 <a href="https://canyapalak.vercel.app" target="_blank" alt="portfolio">https://canyapalak.vercel.app</a>
-- :muscle: Skills:
-
-<div style="flexbox; flex-direction:row; flex-wrap; justify-content:space-evenly">
-  <span title="HTML"><a href="https://www.w3schools.com/html/default.asp"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" style= "width: 3rem; height: 3rem" alt="HTML" /></a></span>
-<span title="CSS"><a href="https://www.w3schools.com/css/default.asp"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" style= "width: 3rem; height: 3rem" alt="CSS" /></a></span>
-<span title="Javascript"><a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" style= "width: 3rem; height: 3rem" alt="Javascript" /></a></span>
-<span title="React"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" style= "width: 3rem; height: 3rem" alt="React" /></a></span>
-<span title="Typescript"><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" style= "width: 3rem; height: 3rem" alt="Typescript" /></a></span>
-<span title="Bootstrap"><a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" style= "width: 3rem; height: 3rem" alt="Bootstrap" /></a></span>
-<span title="MUI"><a href="https://mui.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" style= "width: 3rem; height: 3rem" alt="MUI" /></a></span>
-<span title="Tailwind"><a href="https://tailwindcss.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" style= "width: 3rem; height: 3rem" alt="Tailwind CSS" /></a></span>
-<span title="Firebase"><a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" style= "width: 3rem; height: 3rem" alt="Firebase" /></a></span>
-<span title="NodeJS"><a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" style= "width: 3rem; height: 3rem" alt="NodeJS" /></a></span>
-<span title="MongoDB"><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" style= "width: 3rem; height: 3rem" alt="MongoDB" /></a></span>
-<span title="Express"><a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" style= "width: 3rem; height: 3rem" alt="Express" /></a></span>
-<span title="GraphQL"><a href="https://graphql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" style= "width: 3rem; height: 3rem" alt="GraphQL" /></a></span>
-<span title="Apollo"><a href="https://www.apollographql.com/"><img src="https://www.svgrepo.com/show/305728/apollographql.svg" style= "width: 3rem; height: 3rem" alt="Apollo"/></a></span>
-<span title="Postman"><a href="https://www.postman.com/"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" style= "width: 3rem; height: 3rem" alt="Postman" /></a></span>
-  </div>
+# 💫 About Me:
+<br>👋 Hi, I’m Can Yapalak, a Web Dev student residing in Berlin, Germany.<br>🌱 I’m currently learning how to be a Full-Stack Web Dev at Code Academy Berlin and spending all my time and energy in this new field of expertise.<br>🎯 When I finish my training program, I aim to start working as a full-time web developer and keep on progressing with experience.<br>👉 https://canyapalak.vercel.app
 
 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=canyapalak&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=canyapalak&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=canyapalak&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!---
-canyapalak/canyapalak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+[![](https://visitcount.itsvg.in/api?id=canyapalak&icon=0&color=12)](https://visitcount.itsvg.in)
